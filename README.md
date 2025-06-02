@@ -1,3 +1,6 @@
+# Name: Diviya Dharshini.A
+# Reg no:212224040080
+# Date:14.04.25
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 # Date:
